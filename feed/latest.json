@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05T06:59:18.690396+02:00",
-  "run_id": "2026-07-05",
+  "generated_at": "2026-07-06T07:10:29.180940+02:00",
+  "run_id": "2026-07-06",
   "topics": {
     "banxicospf": {
       "series": [
@@ -149,19 +149,19 @@
       "predictions": [
         {
           "name": "CCI_Durables_specific",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2026-06-30",
           "latest_value": 1.716616801935271
         },
         {
           "name": "CCI_General",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2026-06-30",
           "latest_value": 1.1212122821171064
         },
         {
           "name": "CCI_Housing_specific",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2026-06-30",
           "latest_value": 0.10407434357948821
         }
@@ -386,7 +386,7 @@
       "predictions": [
         {
           "name": "Filtered",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2026-06-01",
           "latest_value": 8.179043936512647
         }
@@ -494,35 +494,35 @@
         },
         {
           "name": "TIIE 28d",
-          "latest_date": "2026-07-05",
-          "latest_value": 0.28401999999999994,
+          "latest_date": "2026-07-12",
+          "latest_value": 0.2558999999999996,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         },
         {
           "name": "TIIE 91d",
-          "latest_date": "2026-07-05",
-          "latest_value": 0.32155999999999985,
+          "latest_date": "2026-07-12",
+          "latest_value": 0.2930999999999999,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         }
       ],
       "predictions": [],
-      "noticeable_today": false,
+      "noticeable_today": true,
       "n_series": 7
     },
     "policywatch": {
       "series": [
         {
           "name": "relevant_publications",
-          "latest_date": "2026-06-29",
-          "latest_value": 9.0,
+          "latest_date": "2026-07-06",
+          "latest_value": 13.0,
           "frequency": "weekly",
           "history_csv": "policywatch.csv"
         }
       ],
       "predictions": [],
-      "noticeable_today": false,
+      "noticeable_today": true,
       "n_series": 1
     },
     "productivity": {
@@ -566,25 +566,25 @@
       "predictions": [
         {
           "name": "Inventory Index",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2025-06-01",
           "latest_value": -0.03397870448629953
         },
         {
           "name": "Labor Demand Index",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2025-06-01",
           "latest_value": -1.4904221468265373
         },
         {
           "name": "Productivity Index",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2025-06-01",
           "latest_value": 0.28120000176876303
         },
         {
           "name": "Sales Index",
-          "reference_date": "2026-07-05",
+          "reference_date": "2026-07-06",
           "latest_date": "2025-06-01",
           "latest_value": 0.6097727846058005
         }
