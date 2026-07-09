@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-08T07:27:28.240455+02:00",
-  "run_id": "2026-07-08",
+  "generated_at": "2026-07-09T07:25:44.264180+02:00",
+  "run_id": "2026-07-09",
   "topics": {
     "banxicospf": {
       "series": [
@@ -149,19 +149,19 @@
       "predictions": [
         {
           "name": "CCI_Durables_specific",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2026-06-30",
           "latest_value": 1.716616801935271
         },
         {
           "name": "CCI_General",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2026-06-30",
           "latest_value": 1.1212122821171064
         },
         {
           "name": "CCI_Housing_specific",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2026-06-30",
           "latest_value": 0.10407434357948821
         }
@@ -205,28 +205,28 @@
           "name": "cpi_core_forecast",
           "reference_date": "2026-06-01",
           "latest_date": "2027-06-01",
-          "latest_value": 4.237357176440178
+          "latest_value": 4.640419420324138
         },
         {
           "name": "cpi_headline_forecast",
           "reference_date": "2026-06-01",
           "latest_date": "2027-06-01",
-          "latest_value": 4.657087122288659
+          "latest_value": 5.032265863443076
         },
         {
           "name": "trade_export_price_forecast",
           "reference_date": "2026-06-01",
           "latest_date": "2027-06-01",
-          "latest_value": 4.9474671696765045
+          "latest_value": 7.217839914403245
         },
         {
           "name": "trade_import_price_forecast",
           "reference_date": "2026-06-01",
           "latest_date": "2027-06-01",
-          "latest_value": 4.976547418421652
+          "latest_value": 6.7105398899752
         }
       ],
-      "noticeable_today": false,
+      "noticeable_today": true,
       "n_series": 4
     },
     "employment": {
@@ -386,7 +386,7 @@
       "predictions": [
         {
           "name": "Filtered",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2026-06-01",
           "latest_value": 8.095741467402272
         }
@@ -398,22 +398,22 @@
       "series": [
         {
           "name": "Implied Inflation Spread",
-          "latest_date": "2026-07-07",
-          "latest_value": 0.6508879639998542,
+          "latest_date": "2026-07-08",
+          "latest_value": 0.6603620679265044,
           "frequency": "daily",
           "history_csv": "marketexpectations.csv"
         },
         {
           "name": "Nominal Spread",
-          "latest_date": "2026-07-07",
-          "latest_value": 1.1947493768879505,
+          "latest_date": "2026-07-08",
+          "latest_value": 1.2044826085068405,
           "frequency": "daily",
           "history_csv": "marketexpectations.csv"
         },
         {
           "name": "Real Spread",
-          "latest_date": "2026-07-07",
-          "latest_value": 0.5438614128880963,
+          "latest_date": "2026-07-08",
+          "latest_value": 0.5441205405803361,
           "frequency": "daily",
           "history_csv": "marketexpectations.csv"
         }
@@ -421,21 +421,21 @@
       "predictions": [
         {
           "name": "Implied Inflation Spread_model",
-          "reference_date": "2026-07-07",
-          "latest_date": "2026-07-07",
-          "latest_value": 0.2665945255998108
+          "reference_date": "2026-07-08",
+          "latest_date": "2026-07-08",
+          "latest_value": 0.2661064589566503
         },
         {
           "name": "Nominal Spread_model",
-          "reference_date": "2026-07-07",
-          "latest_date": "2026-07-07",
-          "latest_value": 1.1772528271581704
+          "reference_date": "2026-07-08",
+          "latest_date": "2026-07-08",
+          "latest_value": 1.187750578328382
         },
         {
           "name": "Real Spread_model",
-          "reference_date": "2026-07-07",
-          "latest_date": "2026-07-07",
-          "latest_value": 0.9106583015583596
+          "reference_date": "2026-07-08",
+          "latest_date": "2026-07-08",
+          "latest_value": 0.9216441193717316
         }
       ],
       "noticeable_today": true,
@@ -460,7 +460,7 @@
         {
           "name": "Bank funding",
           "latest_date": "2026-07-12",
-          "latest_value": 0.01499999999999968,
+          "latest_value": 0.013333333333332753,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         },
@@ -495,14 +495,14 @@
         {
           "name": "TIIE 28d",
           "latest_date": "2026-07-12",
-          "latest_value": 0.25253333333333305,
+          "latest_value": 0.25337500000000013,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         },
         {
           "name": "TIIE 91d",
           "latest_date": "2026-07-12",
-          "latest_value": 0.28969999999999985,
+          "latest_value": 0.29054999999999964,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         }
@@ -566,25 +566,25 @@
       "predictions": [
         {
           "name": "Inventory Index",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2025-06-01",
           "latest_value": -0.03397870448629953
         },
         {
           "name": "Labor Demand Index",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2025-06-01",
           "latest_value": -1.4904221468265373
         },
         {
           "name": "Productivity Index",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2025-06-01",
           "latest_value": 0.28120000176876303
         },
         {
           "name": "Sales Index",
-          "reference_date": "2026-07-08",
+          "reference_date": "2026-07-09",
           "latest_date": "2025-06-01",
           "latest_value": 0.6097727846058005
         }
@@ -597,21 +597,21 @@
         {
           "name": "amihud",
           "latest_date": "2026-07-01",
-          "latest_value": 76.48381987946489,
+          "latest_value": 66.60391709277431,
           "frequency": "monthly",
           "history_csv": "volatility.csv"
         },
         {
           "name": "parkinson_vol",
           "latest_date": "2026-07-01",
-          "latest_value": 0.007673417629168308,
+          "latest_value": 0.00777742944969588,
           "frequency": "monthly",
           "history_csv": "volatility.csv"
         },
         {
           "name": "risk_return",
           "latest_date": "2026-07-01",
-          "latest_value": -0.11237790082465171,
+          "latest_value": -0.1140847511552782,
           "frequency": "monthly",
           "history_csv": "volatility.csv"
         }
