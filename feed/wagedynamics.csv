@@ -1145,6 +1145,7 @@ nominal_wage_retail,2026-02-01,192.33
 nominal_wage_retail,2026-03-01,197.0035
 nominal_wage_retail,2026-04-01,200.775
 nominal_wage_retail,2026-05-01,234.4783
+nominal_wage_retail,2026-06-01,200.5787
 productivity_manuf,2007-01-01,104.0919
 productivity_manuf,2007-02-01,101.9469
 productivity_manuf,2007-03-01,111.52
@@ -1600,6 +1601,7 @@ productivity_retail,2026-02-01,94.3222
 productivity_retail,2026-03-01,106.4313
 productivity_retail,2026-04-01,103.3654
 productivity_retail,2026-05-01,109.3554
+productivity_retail,2026-06-01,107.0242
 real_wage_manuf,2007-01-01,87.2
 real_wage_manuf,2007-02-01,87.0
 real_wage_manuf,2007-03-01,93.4
@@ -2055,6 +2057,7 @@ real_wage_retail,2026-02-01,133.6843
 real_wage_retail,2026-03-01,135.769
 real_wage_retail,2026-04-01,138.0959
 real_wage_retail,2026-05-01,161.6143
+real_wage_retail,2026-06-01,138.6262
 ulc_manuf,2007-01-01,83.7722
 ulc_manuf,2007-02-01,85.3385
 ulc_manuf,2007-03-01,83.7518
@@ -2510,3 +2513,4 @@ ulc_retail,2026-02-01,141.7558
 ulc_retail,2026-03-01,127.5868
 ulc_retail,2026-04-01,133.6227
 ulc_retail,2026-05-01,147.8135
+ulc_retail,2026-06-01,129.5502
