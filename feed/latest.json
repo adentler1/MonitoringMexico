@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T22:03:40.372559+02:00",
-  "run_id": "2026-08-22",
+  "generated_at": "2026-08-23T05:17:07.410262+02:00",
+  "run_id": "2026-08-23",
   "topics": {
     "banxicospf": {
       "series": [
@@ -149,19 +149,19 @@
       "predictions": [
         {
           "name": "CCI_Durables_specific",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-31",
           "latest_value": 1.7261344537615348
         },
         {
           "name": "CCI_General",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-31",
           "latest_value": 1.3519060784013137
         },
         {
           "name": "CCI_Housing_specific",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-31",
           "latest_value": 0.2859707997698188
         }
@@ -268,7 +268,7 @@
         }
       ],
       "predictions": [],
-      "noticeable_today": false,
+      "noticeable_today": true,
       "n_series": 5
     },
     "epu": {
@@ -347,30 +347,30 @@
       "predictions": [
         {
           "name": "Exports_ds_hat_filt",
-          "reference_date": "2026-07-01",
-          "latest_date": "2026-07-01",
-          "latest_value": 2.0356617001652757
+          "reference_date": "2026-06-01",
+          "latest_date": "2026-06-01",
+          "latest_value": -4.9230055977168075
         },
         {
           "name": "Imports_ds_hat_filt",
-          "reference_date": "2026-07-01",
-          "latest_date": "2026-07-01",
-          "latest_value": 4.889673312014768
+          "reference_date": "2026-06-01",
+          "latest_date": "2026-06-01",
+          "latest_value": 5.483555164748968
         },
         {
           "name": "privCons_ds_hat_filt",
-          "reference_date": "2026-07-01",
-          "latest_date": "2026-07-01",
-          "latest_value": 1.9625462363052604
+          "reference_date": "2026-06-01",
+          "latest_date": "2026-06-01",
+          "latest_value": 1.9158765146253742
         },
         {
           "name": "realGdp_ds_hat_filt",
-          "reference_date": "2026-07-01",
-          "latest_date": "2026-07-01",
-          "latest_value": 2.7447249562491756
+          "reference_date": "2026-06-01",
+          "latest_date": "2026-06-01",
+          "latest_value": 3.0094274633328593
         }
       ],
-      "noticeable_today": false,
+      "noticeable_today": true,
       "n_series": 4
     },
     "houseprice": {
@@ -386,7 +386,7 @@
       "predictions": [
         {
           "name": "Filtered",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-01",
           "latest_value": 8.14380439703975
         }
@@ -566,25 +566,25 @@
       "predictions": [
         {
           "name": "Inventory Index",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-01",
           "latest_value": 0.560156890954319
         },
         {
           "name": "Labor Demand Index",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-01",
           "latest_value": -1.2510010099974787
         },
         {
           "name": "Productivity Index",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-01",
           "latest_value": 0.7676132891844525
         },
         {
           "name": "Sales Index",
-          "reference_date": "2026-08-22",
+          "reference_date": "2026-08-23",
           "latest_date": "2026-07-01",
           "latest_value": 1.1081257486716658
         }
