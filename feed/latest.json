@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T07:34:48.571052+02:00",
-  "run_id": "2026-09-29",
+  "generated_at": "2026-09-30T07:43:28.422166+02:00",
+  "run_id": "2026-09-30",
   "topics": {
     "banxicospf": {
       "series": [
@@ -149,19 +149,19 @@
       "predictions": [
         {
           "name": "CCI_Durables_specific",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-31",
           "latest_value": 1.7661277510015965
         },
         {
           "name": "CCI_General",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-31",
           "latest_value": 1.6116226407134941
         },
         {
           "name": "CCI_Housing_specific",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-31",
           "latest_value": 0.1790782973281479
         }
@@ -386,7 +386,7 @@
       "predictions": [
         {
           "name": "Filtered",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-01",
           "latest_value": 9.28186491291175
         }
@@ -398,22 +398,22 @@
       "series": [
         {
           "name": "Implied Inflation Spread",
-          "latest_date": "2026-09-28",
-          "latest_value": 0.454445578588631,
+          "latest_date": "2026-09-29",
+          "latest_value": 0.4595299365030261,
           "frequency": "daily",
           "history_csv": "marketexpectations.csv"
         },
         {
           "name": "Nominal Spread",
-          "latest_date": "2026-09-28",
-          "latest_value": 1.3726435803255,
+          "latest_date": "2026-09-29",
+          "latest_value": 1.3781384037243258,
           "frequency": "daily",
           "history_csv": "marketexpectations.csv"
         },
         {
           "name": "Real Spread",
-          "latest_date": "2026-09-28",
-          "latest_value": 0.9181980017368689,
+          "latest_date": "2026-09-29",
+          "latest_value": 0.9186084672212997,
           "frequency": "daily",
           "history_csv": "marketexpectations.csv"
         }
@@ -421,21 +421,21 @@
       "predictions": [
         {
           "name": "Implied Inflation Spread_model",
-          "reference_date": "2026-09-28",
-          "latest_date": "2026-09-28",
-          "latest_value": 0.40299366119045626
+          "reference_date": "2026-09-29",
+          "latest_date": "2026-09-29",
+          "latest_value": 0.40234423647728057
         },
         {
           "name": "Nominal Spread_model",
-          "reference_date": "2026-09-28",
-          "latest_date": "2026-09-28",
-          "latest_value": 1.3908328650959343
+          "reference_date": "2026-09-29",
+          "latest_date": "2026-09-29",
+          "latest_value": 1.3915076998151819
         },
         {
           "name": "Real Spread_model",
-          "reference_date": "2026-09-28",
-          "latest_date": "2026-09-28",
-          "latest_value": 0.9878392039054781
+          "reference_date": "2026-09-29",
+          "latest_date": "2026-09-29",
+          "latest_value": 0.9891634633379014
         }
       ],
       "noticeable_today": true,
@@ -459,8 +459,8 @@
       "series": [
         {
           "name": "Bank funding",
-          "latest_date": "2026-09-29",
-          "latest_value": 0.08000000000000007,
+          "latest_date": "2026-09-30",
+          "latest_value": 0.0649999999999995,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         },
@@ -494,15 +494,15 @@
         },
         {
           "name": "TIIE 28d",
-          "latest_date": "2026-09-29",
-          "latest_value": 0.29604999999999926,
+          "latest_date": "2026-09-30",
+          "latest_value": 0.30276666666666685,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         },
         {
           "name": "TIIE 91d",
-          "latest_date": "2026-09-29",
-          "latest_value": 0.3337500000000002,
+          "latest_date": "2026-09-30",
+          "latest_value": 0.34053333333333313,
           "frequency": "weekly",
           "history_csv": "nonfinanciallending.csv"
         }
@@ -566,25 +566,25 @@
       "predictions": [
         {
           "name": "Inventory Index",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-01",
           "latest_value": -0.31858538025328337
         },
         {
           "name": "Labor Demand Index",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-01",
           "latest_value": -1.1364283967699274
         },
         {
           "name": "Productivity Index",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-01",
           "latest_value": 0.8264601257173033
         },
         {
           "name": "Sales Index",
-          "reference_date": "2026-09-29",
+          "reference_date": "2026-09-30",
           "latest_date": "2026-08-01",
           "latest_value": 0.6168315917254289
         }
@@ -597,21 +597,21 @@
         {
           "name": "amihud",
           "latest_date": "2026-09-01",
-          "latest_value": 93.67625457230967,
+          "latest_value": 90.58267999703486,
           "frequency": "monthly",
           "history_csv": "volatility.csv"
         },
         {
           "name": "parkinson_vol",
           "latest_date": "2026-09-01",
-          "latest_value": 0.006650685084057404,
+          "latest_value": 0.006662759667510519,
           "frequency": "monthly",
           "history_csv": "volatility.csv"
         },
         {
           "name": "risk_return",
           "latest_date": "2026-09-01",
-          "latest_value": -0.06425849004841011,
+          "latest_value": -0.04952280621953964,
           "frequency": "monthly",
           "history_csv": "volatility.csv"
         }
